@@ -15,11 +15,18 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arek1997&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Arek1997/github-readme-stats)
 
 
-<h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
-
- <a href="https://www.linkedin.com/in/arkadiusz-szewczyk-b93b33240/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-  <a href="https://www.facebook.com/arek.szewczyk97" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>
-
+<h1 align="center">
+✨ Where you can find me ✨
+  <p align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/arkadiusz-szewczyk-b93b33240/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://www.facebook.com/arek.szewczyk97">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
+  </a>  
 </p>
+</h1>
+
