@@ -19,6 +19,6 @@
 
 <p align="center">
 
-&nbsp; <a href="https://www.linkedin.com/in/arkadiusz-szewczyk-b93b33240/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+ <a href="https://www.linkedin.com/in/arkadiusz-szewczyk-b93b33240/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 
 </p>
