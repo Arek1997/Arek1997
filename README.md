@@ -59,7 +59,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arek1997&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Arek1997/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arek1997&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Arek1997/github-readme-stats)
 
 
 
