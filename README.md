@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arek1997&label=Profile%20views&color=0e75b6&style=flat" alt="Arek1997" /> </p>
 
-- 🔭 I’m currently <img height="20px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"> React
+- 🔭 I’m currently working on learning <img height="20px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"> React
 - 💻 All of my projects are available here [my projects](https://github.com/Arek1997?tab=repositories)
 
 <br/>
