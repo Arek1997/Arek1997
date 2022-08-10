@@ -8,6 +8,23 @@
 
 <br/>
 
+
+<h1 align="center">
+✨ Where you can find me ✨
+  <p align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/arkadiusz-szewczyk-b93b33240/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://www.facebook.com/arek.szewczyk97">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
+  </a>  
+</p>
+</h1>
+
+<br/>
+
 <h1 align="left">𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <table>
@@ -62,17 +79,5 @@
 
 
 
-<h1 align="center">
-✨ Where you can find me ✨
-  <p align="center">
-  <br/>
-  <a href="https://www.linkedin.com/in/arkadiusz-szewczyk-b93b33240/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="https://www.facebook.com/arek.szewczyk97">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
-  </a>  
-</p>
-</h1>
+
 
