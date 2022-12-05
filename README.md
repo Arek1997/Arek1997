@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arek1997&label=Profile%20views&color=0e75b6&style=flat" alt="Arek1997" /> </p>
 
-- 🔭 I’m currently working on learning <img height="20px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"> React
-- 💻 All of my projects are available here [my projects](https://github.com/Arek1997?tab=repositories)
 
+- 🔭 I’m currently working on learning <img height="20px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg"> TypeScript
+- 💻 All of my projects are available here [my projects](https://github.com/Arek1997?tab=repositories)
 <br/>
 
 
@@ -31,6 +31,7 @@
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
+<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg'> </a>
