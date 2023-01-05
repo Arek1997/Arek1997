@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arek1997&label=Profile%20views&color=0e75b6&style=flat" alt="Arek1997" /> </p>
 
 
-- 🔭 I’m currently working on learning <img height="20px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg"> TypeScript
+- 🔭 I’m currently working on learning <img height="20px" src="https://i.ibb.co/kHrLC7P/next.jpg"> Next.js
 - 💻 All of my projects are available here [my projects](https://github.com/Arek1997?tab=repositories)
 <br/>
 
@@ -41,7 +41,6 @@
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gulp.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/npm.svg'> </a>
-
 
 <br>
 
