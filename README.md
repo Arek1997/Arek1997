@@ -21,7 +21,7 @@ Frontend developer from Poland
 ### 🧠 Other things I know
 [![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,materialui,styledcomponents,redux,firebase,gulp)](https://skillicons.dev)
 
-### ⚙️ Things i wanna try / learn
+### ⚙️ Things I wanna try / learn
 [![My Skills](https://skillicons.dev/icons?i=vue,astro,electron,nodejs,express)](https://skillicons.dev)
 
 <br/>
