@@ -18,7 +18,7 @@ Frontend developer from Poland
 ### 🛠️ I daily work with
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,jest,git,vite)](https://skillicons.dev)
 
-### 🧠 Other tech stact i know
+### 🧠 Other things I know
 [![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,materialui,styledcomponents,redux,firebase,gulp)](https://skillicons.dev)
 
 ### ⚙️ Things i wanna try / learn
