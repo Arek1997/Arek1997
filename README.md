@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm Arek!</h1>
-<h2 align="center">A aspiring frontend developer from Poland</h2>
+# Hi <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm Arek!
+Frontend developer from Poland
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Arek1997&label=Profile%20views&color=0e75b6&style=flat" alt="Arek1997" /> </p>
 
@@ -9,23 +9,13 @@
 <br/>
 
 
-<h1 align="center">
-✨ Where you can find me ✨
-  <p align="center">
-  <br/>
-  <a href="https://www.linkedin.com/in/arkadiusz-szewczyk-b93b33240/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
+
+## ✨ Where you can find me ✨
+[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkadiusz-szewczyk-b93b33240/)
+
+[![](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/arek.szewczyk97)
   
-  <a href="https://www.facebook.com/arek.szewczyk97">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
-  </a>  
-</p>
-</h1>
-
-<br/>
-
-<h1 align="left">🛠️ 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+## 🛠️ 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
