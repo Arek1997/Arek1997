@@ -17,24 +17,16 @@ Frontend developer from Poland
   
 ## 🛠️ 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
-<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sass.svg'> </a>
-<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
-<img width ='48px' src ='https://www.styled-components.com/atom.png'> </a>
-<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<img width ='48px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg'> </a>
-<img width ='48px' src ='https://i.ibb.co/DW3zZPX/nextjsicon.png'> </a>
-<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/redux.svg'> </a>
-<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'> </a>
-<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
-<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gulp.svg'> </a>
-<img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/npm.svg'> </a>
+### I daily work with 🛠️
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,jest,git,vite)](https://skillicons.dev)
 
-<br>
+### The other tech stact i know
+[![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,materialui,styledcomponents,redux,firebase,gulp)](https://skillicons.dev)
+
+### Things i wanna try / learn
+[![My Skills](https://skillicons.dev/icons?i=vue,astro,electron,nodejs,express)](https://skillicons.dev)
+
+<br/>
 
 ## ⚙️ My GitHub Stats
 
