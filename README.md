@@ -21,7 +21,7 @@ Frontend developer from Poland
 [![My Skills](https://skillicons.dev/icons?i=sass,bootstrap,materialui,styledcomponents,redux,firebase,gulp)](https://skillicons.dev)
 
 ### ⚙️ Things I wanna try / learn
-[![My Skills](https://skillicons.dev/icons?i=vue,astro,electron,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,astro,electron,nodejs,express,nest)](https://skillicons.dev)
 
 <br/>
 
