@@ -3,7 +3,7 @@ Frontend developer from Poland
 
 <img src="https://komarev.com/ghpvc/?username=Arek1997&label=Profile%20views&color=0e75b6&style=flat" alt="Arek1997" /> 
 
-<!-- - 🔭 I’m currently working on learning <img height="20px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cypress.svg"> Cypress / Testing -->
+- 🔭 I’m currently working on learning <img height="20px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg"> Node.js
 - 💻 All of my projects are available here [my projects](https://github.com/Arek1997?tab=repositories)
 <br/>
 
