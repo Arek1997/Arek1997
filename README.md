@@ -3,7 +3,7 @@ Frontend developer from Poland
 
 <img src="https://komarev.com/ghpvc/?username=Arek1997&label=Profile%20views&color=0e75b6&style=flat" alt="Arek1997" /> 
 
-- 🔭 I’m currently working on learning <img height="25px" src="https://skillicons.dev/icons?i=svelte">
+- 🔭 I’m currently working on learning <img height="25px" src="https://skillicons.dev/icons?i=nodejs,express">
 - 💻 All of my projects are available here [my projects](https://github.com/Arek1997?tab=repositories)
 <br/>
 
@@ -18,7 +18,7 @@ Frontend developer from Poland
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,js,ts,react,nextjs,git)](https://skillicons.dev)
 
 ### 🧠 Other things I know
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,materialui,redux,astro,jest,vite,firebase,gulp,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,materialui,redux,astro,jest,vite,firebase,gulp)](https://skillicons.dev)
 
 ### ⚙️ Things I wanna try / learn
 <img height="45px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png"> [![My Skills](https://skillicons.dev/icons?i=vue,electron,nest)](https://skillicons.dev)
