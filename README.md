@@ -15,10 +15,10 @@ Frontend developer from Poland
 ## My tech stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 ### 🛠️ I daily work with
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,styledcomponents,js,ts,react,nextjs,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,js,ts,react,nextjs,git)](https://skillicons.dev)
 
 ### 🧠 Other things I know
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,materialui,redux,astro,jest,vite,firebase,gulp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,sass,materialui,redux,astro,jest,vite,firebase,gulp)](https://skillicons.dev)
 
 ### ⚙️ Things I wanna try / learn
 <img height="45px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png"> [![My Skills](https://skillicons.dev/icons?i=vue,electron,nest)](https://skillicons.dev)
