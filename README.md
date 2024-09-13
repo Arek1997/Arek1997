@@ -17,7 +17,7 @@ Frontend developer from Poland
 
 ### 🧠 Other things I know
 #### 🖥 Frontend
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,sass,materialui,redux,astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,sass,materialui,redux,astro,vue)](https://skillicons.dev)
 
 #### 💾 Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,firebase)](https://skillicons.dev)
@@ -27,7 +27,7 @@ Frontend developer from Poland
 
 
 ### ⚙️ Things I wanna try / learn
-<img height="45px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png"> [![My Skills](https://skillicons.dev/icons?i=vue,angular,nest,electron)](https://skillicons.dev)
+<img height="45px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png"> [![My Skills](https://skillicons.dev/icons?i=angular,nest,electron)](https://skillicons.dev)
 
 
 
