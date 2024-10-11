@@ -27,7 +27,7 @@ Frontend developer from Poland
 
 
 ### ⚙️ Things I wanna try / learn
-<img height="45px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png"> [![My Skills](https://skillicons.dev/icons?i=angular,electron)](https://skillicons.dev)
+<img height="45px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png"> [![My Skills](https://skillicons.dev/icons?i=angular,electron,php,laravel,adonis)](https://skillicons.dev)
 
 
 
