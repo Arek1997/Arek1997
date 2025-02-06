@@ -1,5 +1,5 @@
 # Hi <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm Arek!
-Frontend developer from Poland
+Fullstack Developer from Poland
 
 <img src="https://komarev.com/ghpvc/?username=Arek1997&label=Profile%20views&color=0e75b6&style=flat" alt="Arek1997" /> 
 
