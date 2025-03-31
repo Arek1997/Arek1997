@@ -27,7 +27,7 @@ Fullstack Developer from Poland
 
 
 ### ⚙️ Things I wanna try / learn
-<img height="45px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png"> [![My Skills](https://skillicons.dev/icons?i=angular,electron,laravel,adonis)](https://skillicons.dev)
+<img height="45px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png"> [![My Skills](https://skillicons.dev/icons?i=angular,electron,laravel,docker,adonis)](https://skillicons.dev)
 
 
 
