@@ -20,14 +20,14 @@ Fullstack Developer from Poland
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,sass,materialui,redux,astro,vue)](https://skillicons.dev)
 
 #### 💾 Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,php,mongodb,prisma,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,php,laravel,mongodb,prisma,firebase)](https://skillicons.dev)
 
 #### 🔧 Tools
 [![My Skills](https://skillicons.dev/icons?i=jest,vitest,cypress,vite,gulp,docker)](https://skillicons.dev)
 
 
 ### ⚙️ Things I wanna try / learn
-<img height="45px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png"> [![My Skills](https://skillicons.dev/icons?i=angular,electron,laravel,adonis)](https://skillicons.dev)
+<img height="45px" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png"> [![My Skills](https://skillicons.dev/icons?i=angular,electron,adonis)](https://skillicons.dev)
 
 
 
