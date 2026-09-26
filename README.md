@@ -23,7 +23,7 @@ Software Developer from Poland
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,php,laravel,mongodb,prisma,firebase)](https://skillicons.dev)
 
 #### 🔧 Tools
-[![My Skills](https://skillicons.dev/icons?i=jest,vitest,cypress,vite,gulp,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest,vitest,cypress,vite,gulp,docker,gcp)](https://skillicons.dev)
 
 
 ### ⚙️ Things I wanna try / learn
