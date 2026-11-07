@@ -20,7 +20,7 @@ Software Developer from Poland
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,sass,materialui,redux,astro,vue)](https://skillicons.dev)
 
 #### 💾 Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,php,laravel,mongodb,prisma,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,php,laravel,mysql,postgres,mongodb,prisma,firebase)](https://skillicons.dev)
 
 #### 🔧 Tools
 [![My Skills](https://skillicons.dev/icons?i=jest,vitest,cypress,vite,gulp,docker,gcp)](https://skillicons.dev)
