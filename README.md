@@ -13,21 +13,21 @@ Software Developer from Poland
 ## My tech stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 ### 🛠️ I daily work with
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,js,ts,react,nextjs,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,tailwind,ts,react,nodejs,nest,git)](https://skillicons.dev)
 
 ### 🧠 Other things I know
 #### 🖥 Frontend
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,sass,materialui,redux,astro,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,bootstrap,sass,styledcomponents,materialui,js,redux,nextjs,astro,vue)](https://skillicons.dev)
 
 #### 💾 Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nest,php,laravel,mysql,postgres,mongodb,prisma,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,php,laravel,mysql,postgres,mongodb,prisma,firebase)](https://skillicons.dev)
 
 #### 🔧 Tools
-[![My Skills](https://skillicons.dev/icons?i=jest,vitest,cypress,vite,gulp,docker,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest,vitest,cypress,vite,postman,nginx,docker,githubactions,prometheus,grafana,gcp)](https://skillicons.dev)
 
 
 ### ⚙️ Things I wanna try / learn
-[![My Skills](https://skillicons.dev/icons?i=angular,electron,adonis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
 
 
 
