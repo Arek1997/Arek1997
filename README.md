@@ -1,5 +1,13 @@
 # Hi <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm Arek!
-Senior Fullstack Developer from Poland
+Senior Fullstack Developer with 5 years of commercial experience building scalable end-to-end web applications using TypeScript across frontend and backend. 
+
+Backend experience with Node.js and NestJS, including REST API design, backend architecture, authentication, authorization, database modeling, business logic implementation and deploying containerized applications to Google Cloud using CI/CD. 
+
+Additionally, I build modern, accessible and responsive user interfaces using the React ecosystem, allowing me to deliver features end-to-end. 
+
+I have experience implementing RTL (right-to-left) interfaces for partners in Saudi Arabia. 
+
+I have contributed to applications used by customers including Orange, Plus, T-Mobile, Netia and NASK.
 
 <img src="https://komarev.com/ghpvc/?username=Arek1997&label=Profile%20views&color=0e75b6&style=flat" alt="Arek1997" /> 
 
@@ -26,19 +34,3 @@ Senior Fullstack Developer from Poland
 
 ### ⚙️ Things I wanna try / learn
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
-
-
-
-<br/>
-
-## 📝 My GitHub Stats
-
-
-![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=Arek1997&show_icons=true&bg_color=0,000000,130F40&text_color=D3D3D3&title_color=7A7ADB&icon_color=2234AE)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arek1997&layout=compact&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/Arek1997/github-readme-stats)
-
-
-
-
-
